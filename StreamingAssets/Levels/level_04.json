@@ -1,0 +1,73 @@
+{
+  "id": "level_04",
+  "displayName": "Уровень 4",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 2
+    },
+    {
+      "id": 2,
+      "weight": 4
+    },
+    {
+      "id": 3,
+      "weight": 5
+    },
+    {
+      "id": 4,
+      "weight": 2
+    },
+    {
+      "id": 5,
+      "weight": 2.5
+    },
+    {
+      "id": 6,
+      "weight": 2
+    },
+    {
+      "id": 7,
+      "weight": 1.5
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Pepper",
+      "weight": 1
+    },
+    {
+      "name": "Eggplant",
+      "weight": 1
+    },
+    {
+      "name": "Potate",
+      "weight": 1
+    },
+    {
+      "name": "Plum",
+      "weight": 1
+    },
+    {
+      "name": "Watermelon",
+      "weight": 1.5
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [],
+  "goals": [
+    {
+      "block": "Eggplant",
+      "count": 12
+    },
+    {
+      "block": "Potate",
+      "count": 9
+    },
+    {
+      "block": "Watermelon",
+      "count": 15
+    }
+  ]
+}

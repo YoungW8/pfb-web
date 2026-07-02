@@ -1,0 +1,266 @@
+{
+  "id": "level_12",
+  "displayName": "Уровень 12",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 4
+    },
+    {
+      "id": 2,
+      "weight": 5
+    },
+    {
+      "id": 3,
+      "weight": 3
+    },
+    {
+      "id": 4,
+      "weight": 1
+    },
+    {
+      "id": 6,
+      "weight": 2
+    },
+    {
+      "id": 7,
+      "weight": 1
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Eggplant",
+      "weight": 1
+    },
+    {
+      "name": "Potate",
+      "weight": 1
+    },
+    {
+      "name": "Watermelon",
+      "weight": 1
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [
+    {
+      "x": 1,
+      "y": 6,
+      "name": "WateringCan",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "name": "WateringCan",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    }
+  ],
+  "holders": [
+    {
+      "x": 2,
+      "y": 5,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    }
+  ],
+  "goals": [
+    {
+      "block": "WateringCan",
+      "count": 2
+    },
+    {
+      "block": "Basket",
+      "count": 18
+    }
+  ]
+}

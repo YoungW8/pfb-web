@@ -1,0 +1,99 @@
+{
+  "id": "level_02",
+  "displayName": "Уровень 2",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 6
+    },
+    {
+      "id": 2,
+      "weight": 3
+    },
+    {
+      "id": 3,
+      "weight": 5
+    },
+    {
+      "id": 4,
+      "weight": 2
+    },
+    {
+      "id": 7,
+      "weight": 5
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Peach",
+      "weight": 1.5
+    },
+    {
+      "name": "Pepper",
+      "weight": 1
+    },
+    {
+      "name": "Plum",
+      "weight": 1.5
+    },
+    {
+      "name": "Watermelon",
+      "weight": 1.5
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [],
+  "holders": [
+    {
+      "x": 2,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    }
+  ],
+  "goals": [
+    {
+      "block": "Peach",
+      "count": 5
+    },
+    {
+      "block": "Watermelon",
+      "count": 5
+    },
+    {
+      "block": "Basket",
+      "count": 6
+    }
+  ]
+}

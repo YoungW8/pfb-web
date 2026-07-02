@@ -1,0 +1,194 @@
+{
+  "id": "level_07",
+  "displayName": "Уровень 7",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 4
+    },
+    {
+      "id": 2,
+      "weight": 4
+    },
+    {
+      "id": 3,
+      "weight": 3
+    },
+    {
+      "id": 6,
+      "weight": 2
+    },
+    {
+      "id": 7,
+      "weight": 1
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Peach",
+      "weight": 1
+    },
+    {
+      "name": "Eggplant",
+      "weight": 1
+    },
+    {
+      "name": "Plum",
+      "weight": 1
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [
+    {
+      "x": 3,
+      "y": 7,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    }
+  ],
+  "goals": [
+    {
+      "block": "Haystack",
+      "count": 20
+    },
+    {
+      "block": "Plum",
+      "count": 10
+    }
+  ]
+}

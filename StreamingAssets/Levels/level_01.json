@@ -1,0 +1,49 @@
+{
+  "id": "level_01",
+  "displayName": "Уровень 1",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 6
+    },
+    {
+      "id": 2,
+      "weight": 6
+    },
+    {
+      "id": 3,
+      "weight": 4
+    },
+    {
+      "id": 5,
+      "weight": 2
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Peach",
+      "weight": 1.5
+    },
+    {
+      "name": "Pepper",
+      "weight": 1.5
+    },
+    {
+      "name": "Plum",
+      "weight": 1
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [],
+  "goals": [
+    {
+      "block": "Peach",
+      "count": 5
+    },
+    {
+      "block": "Pepper",
+      "count": 5
+    }
+  ]
+}

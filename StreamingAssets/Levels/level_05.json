@@ -1,0 +1,216 @@
+{
+  "id": "level_05",
+  "displayName": "Уровень 5",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 4
+    },
+    {
+      "id": 2,
+      "weight": 4
+    },
+    {
+      "id": 3,
+      "weight": 3
+    },
+    {
+      "id": 4,
+      "weight": 2
+    },
+    {
+      "id": 6,
+      "weight": 2
+    },
+    {
+      "id": 7,
+      "weight": 1
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Peach",
+      "weight": 1
+    },
+    {
+      "name": "Plum",
+      "weight": 1
+    },
+    {
+      "name": "Watermelon",
+      "weight": 1
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [
+    {
+      "x": 2,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    }
+  ],
+  "holders": [
+    {
+      "x": 2,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    }
+  ],
+  "goals": [
+    {
+      "block": "Haystack",
+      "count": 12
+    },
+    {
+      "block": "Basket",
+      "count": 12
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "level_14",
+  "displayName": "Тест бустеров",
+  "seed": 0,
+  "figures": [
+    { "id": 7, "weight": 8 },
+    { "id": 3, "weight": 4 },
+    { "id": 4, "weight": 4 },
+    { "id": 5, "weight": 4 },
+    { "id": 6, "weight": 4 },
+    { "id": 1, "weight": 1 },
+    { "id": 2, "weight": 1 }
+  ],
+  "blocks": [
+    { "name": "Pepper", "weight": 3 },
+    { "name": "Orange", "weight": 1 }
+  ],
+  "boardPreset": [],
+  "blockers": [
+    { "x": 1, "y": 0, "name": "Haystack", "size": 1, "hp": 1 },
+    { "x": 3, "y": 0, "name": "Haystack", "size": 1, "hp": 1 },
+    { "x": 5, "y": 0, "name": "Haystack", "size": 1, "hp": 1 }
+  ],
+  "goals": [
+    { "block": "Pepper", "count": 999 },
+    { "block": "Orange", "count": 999 },
+    { "block": "Haystack", "count": 3 }
+  ]
+}

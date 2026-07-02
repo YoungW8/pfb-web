@@ -1,0 +1,278 @@
+{
+  "id": "level_13",
+  "displayName": "Уровень 13",
+  "seed": 12345,
+  "figures": [
+    {
+      "id": 1,
+      "weight": 4
+    },
+    {
+      "id": 2,
+      "weight": 5
+    },
+    {
+      "id": 3,
+      "weight": 3
+    },
+    {
+      "id": 4,
+      "weight": 1
+    },
+    {
+      "id": 6,
+      "weight": 2
+    },
+    {
+      "id": 7,
+      "weight": 1
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Eggplant",
+      "weight": 1
+    },
+    {
+      "name": "Potate",
+      "weight": 1
+    }
+  ],
+  "boardPreset": [],
+  "blockers": [
+    {
+      "x": 0,
+      "y": 7,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "name": "WateringCan",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "name": "WateringCan",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "WoodenFence",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 3
+    }
+  ],
+  "goals": [
+    {
+      "block": "WateringCan",
+      "count": 2
+    },
+    {
+      "block": "Haystack",
+      "count": 22
+    }
+  ]
+}
