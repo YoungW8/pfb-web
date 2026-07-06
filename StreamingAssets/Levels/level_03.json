@@ -5,7 +5,7 @@
   "figures": [
     {
       "id": 1,
-      "weight": 3.5
+      "weight": 3
     },
     {
       "id": 2,
@@ -13,15 +13,15 @@
     },
     {
       "id": 3,
-      "weight": 3.5
+      "weight": 3
     },
     {
       "id": 4,
-      "weight": 2
+      "weight": 1
     },
     {
       "id": 5,
-      "weight": 2
+      "weight": 1
     },
     {
       "id": 6,
@@ -29,12 +29,16 @@
     },
     {
       "id": 7,
-      "weight": 4
+      "weight": 1
     }
   ],
   "blocks": [
     {
-      "name": "Peach",
+      "name": "Eggplant",
+      "weight": 1
+    },
+    {
+      "name": "Watermelon",
       "weight": 1
     },
     {
@@ -42,126 +46,225 @@
       "weight": 1
     },
     {
-      "name": "Eggplant",
-      "weight": 1
-    },
-    {
       "name": "Plum",
-      "weight": 1
-    },
-    {
-      "name": "Watermelon",
       "weight": 1
     }
   ],
   "boardPreset": [],
-  "blockers": [],
+  "blockers": [
+    {
+      "x": 6,
+      "y": 6,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "name": "Haystack",
+      "size": 1,
+      "hp": 1
+    }
+  ],
   "holders": [
     {
-      "x": 1,
-      "y": 5,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 2,
-      "y": 5,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 3,
-      "y": 5,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 4,
-      "y": 5,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 5,
-      "y": 5,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 1,
-      "y": 4,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 2,
-      "y": 4,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 3,
-      "y": 4,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 4,
+      "x": 6,
       "y": 4,
       "name": "Basket",
       "hp": 1
     },
     {
       "x": 5,
-      "y": 4,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 1,
       "y": 3,
       "name": "Basket",
       "hp": 1
     },
     {
-      "x": 2,
+      "x": 6,
       "y": 3,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 3,
-      "y": 3,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 4,
-      "y": 3,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 5,
-      "y": 3,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 1,
-      "y": 2,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 2,
-      "y": 2,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 3,
-      "y": 2,
       "name": "Basket",
       "hp": 1
     },
@@ -174,22 +277,78 @@
     {
       "x": 5,
       "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
       "name": "Basket",
       "hp": 1
     }
   ],
   "goals": [
     {
-      "block": "Eggplant",
-      "count": 10
-    },
-    {
-      "block": "Plum",
-      "count": 10
+      "block": "Haystack",
+      "count": 28
     },
     {
       "block": "Basket",
-      "count": 20
+      "count": 15
     }
   ]
 }

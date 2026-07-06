@@ -13,7 +13,7 @@
     },
     {
       "id": 3,
-      "weight": 5
+      "weight": 2
     },
     {
       "id": 4,
@@ -21,13 +21,17 @@
     },
     {
       "id": 7,
-      "weight": 5
+      "weight": 4
     }
   ],
   "blocks": [
     {
-      "name": "Peach",
-      "weight": 1.5
+      "name": "Watermelon",
+      "weight": 1
+    },
+    {
+      "name": "Tomato",
+      "weight": 1
     },
     {
       "name": "Pepper",
@@ -35,65 +39,105 @@
     },
     {
       "name": "Plum",
-      "weight": 1.5
-    },
-    {
-      "name": "Watermelon",
-      "weight": 1.5
+      "weight": 1
     }
   ],
   "boardPreset": [],
   "blockers": [],
   "holders": [
     {
-      "x": 2,
-      "y": 3,
+      "x": 0,
+      "y": 1,
       "name": "Basket",
       "hp": 1
     },
     {
-      "x": 3,
-      "y": 3,
-      "name": "Basket",
-      "hp": 1
-    },
-    {
-      "x": 4,
-      "y": 3,
+      "x": 1,
+      "y": 1,
       "name": "Basket",
       "hp": 1
     },
     {
       "x": 2,
-      "y": 2,
+      "y": 1,
       "name": "Basket",
       "hp": 1
     },
     {
       "x": 3,
-      "y": 2,
+      "y": 1,
       "name": "Basket",
       "hp": 1
     },
     {
       "x": 4,
-      "y": 2,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 6,
+      "y": 0,
       "name": "Basket",
       "hp": 1
     }
   ],
   "goals": [
     {
-      "block": "Peach",
-      "count": 5
-    },
-    {
       "block": "Watermelon",
-      "count": 5
+      "count": 10
     },
     {
       "block": "Basket",
-      "count": 6
+      "count": 14
     }
   ]
 }

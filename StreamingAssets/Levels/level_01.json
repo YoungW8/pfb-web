@@ -13,18 +13,10 @@
     },
     {
       "id": 3,
-      "weight": 4
-    },
-    {
-      "id": 5,
-      "weight": 2
+      "weight": 1
     }
   ],
   "blocks": [
-    {
-      "name": "Peach",
-      "weight": 1.5
-    },
     {
       "name": "Pepper",
       "weight": 1.5
@@ -36,14 +28,76 @@
   ],
   "boardPreset": [],
   "blockers": [],
-  "goals": [
+  "holders": [
     {
-      "block": "Peach",
-      "count": 5
+      "x": 1,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
     },
     {
+      "x": 2,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "name": "Basket",
+      "hp": 1
+    }
+  ],
+  "goals": [
+    {
       "block": "Pepper",
-      "count": 5
+      "count": 10
+    },
+    {
+      "block": "Basket",
+      "count": 10
     }
   ]
 }
